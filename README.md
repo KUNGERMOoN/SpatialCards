@@ -5,8 +5,8 @@ HoloLens 2 app for writing quick notes on holographic cards.
 - Cards can be freely positioned, rotated ans scaled in 3D space
 - Supports both native and virtual keyboard for text input
 - Allows for loading and placing custom 3D models
-- Cards and models persist between sessions
-- Data can be shared between different devices
+- Cards and models' positions persist between sessions
+- Uses Azure Services to share data between devices
 
 ## Instructions
 - Drag an object to move it
